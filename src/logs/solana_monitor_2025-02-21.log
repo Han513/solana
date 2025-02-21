@@ -1,0 +1,6 @@
+INFO: 2025/02/21 16:03:23.967774 logger.go:41: Kafka connection test successful
+INFO: 2025/02/21 16:03:24.567253 logger.go:41: Solana block monitor started
+INFO: 2025/02/21 16:03:39.758100 logger.go:41: Received signal interrupt, shutting down...
+INFO: 2025/02/21 16:03:39.758100 logger.go:41: Shutdown complete
+INFO: 2025/02/21 16:03:44.858952 logger.go:41: Kafka connection test successful
+INFO: 2025/02/21 16:03:45.344323 logger.go:41: Solana block monitor started
